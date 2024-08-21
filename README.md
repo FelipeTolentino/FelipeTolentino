@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou Felipe
 <ul>
   <li>📅 24 anos</li>
-  <li>🏫 Ciência da Computação na Universidade Federal do Espírito Santo</li>
+  <li>👨‍🎓 Ciência da Computação na Universidade Federal do Espírito Santo</li>
   <li>📍 Espírito Santo, Brasil</li>
 </ul>
 
