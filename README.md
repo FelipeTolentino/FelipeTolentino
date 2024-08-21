@@ -4,8 +4,10 @@
 📍 Espírito Santo, Brasil
 
 ## Estatísticas do GitHub
+<p align="center">
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeTolentino&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+</p>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeTolentino&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ## Contato
 
