@@ -1,6 +1,11 @@
+# 👋 Olá, eu sou Felipe
+📅 24 anos
+🏫 Ciência da Computação da Universidade Federal do Espírito Santo
+📍 Espírito Santo, Brasil
+
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Junior41&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ## Contato
 
